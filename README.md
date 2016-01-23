@@ -9,6 +9,8 @@ dismathportfolio-melvincabatuan created by Classroom for GitHub
 - I've learned that it's full of hard topics and that I will fail this course if I will not study hard!
 - I've learned that DISMATH deals ONLY with **mathematical truth**, and neither of the following: authoritative, legal, scientific, probable, nor philosophical truths.
 - I also learned logical connectives and how to prove a statement by Truth table. 
+- I learned strange symbols, e.x., ¬ for Negation, ∧ for conjunction, ∨ for disjunction,⊕ for  exclusve disjunction,  →
+ for implication, and ↔ for biconditional.
 - etc. (write as many learnings as you can...)
 
 
