@@ -12,7 +12,7 @@ dismathportfolio-melvincabatuan created by Classroom for GitHub
 - I learned strange symbols, e.x., ¬ for Negation, ∧ for conjunction, ∨ for disjunction,⊕ for exclusive disjunction,  →
  for implication, and ↔ for biconditional.
 
-| Operator  |  Symbol | Usage | Formula | Logical Expression |
+| Logical Operator  |  Symbol | Usage | Formula | Logical Expression |
 | :-----: |:-------:|:-----:| :-------: | :-------: |
 | ¬ |Negation | not | val(¬p) = 1 - val(p) | ¬p |
 | ∧ | Conjunction | and | val(p ∧ q) = min(val(p), val(q)) | p ∧ q |
