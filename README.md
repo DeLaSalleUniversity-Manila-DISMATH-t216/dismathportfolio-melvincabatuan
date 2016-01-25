@@ -43,3 +43,12 @@ dismathportfolio-melvincabatuan created by Classroom for GitHub
 - etc. (write as many learnings as you can...)
 
 ## WEEK 3:
+
+- 
+
+
+## EXTRAS:
+
+- You can 'copy' important logical/mathemtical symbols from here
+
+ https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols 
