@@ -49,6 +49,6 @@ dismathportfolio-melvincabatuan created by Classroom for GitHub
 
 ## EXTRAS:
 
-- You can 'copy' important logical/mathemtical symbols from here
+- You can 'copy' important logical/mathematical symbols from here
 
  https://en.wikibooks.org/wiki/Unicode/List_of_useful_symbols 
