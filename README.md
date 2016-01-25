@@ -11,6 +11,16 @@ dismathportfolio-melvincabatuan created by Classroom for GitHub
 - I also learned logical connectives and how to prove a statement by Truth table. 
 - I learned strange symbols, e.x., ¬ for Negation, ∧ for conjunction, ∨ for disjunction,⊕ for exclusive disjunction,  →
  for implication, and ↔ for biconditional.
+
+| Operator  |  Symbol | Usage | Formula | Logical Expression |
+| :-----: |:-------:|:-----:| :-------: | :-------: |
+| ¬ |Negation | not | val(¬p) = 1 - val(p) | ¬p |
+| ∧ | Conjunction | and | val(p ∧ q) = min(val(p), val(q)) | p ∧ q |
+| v | Disjunction | or | val(p v q) = max(val(p), val(q)) | p v q |
+| ⊕ | Exclusive disjunction | xor | if val(p)  not equal val(q) = 1 , otherwise  0|  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) |
+| → | Conditional | if, then | if val(p)  ≤ val(q) = 1 , otherwise  0  | p → q ≡  ¬p v q |
+| ↔ | Biconditional | iff | if val(p) equals val(q) = 1 , otherwise  0 |  p ↔ q ≡ (p → q) ∧ (q → p) |
+
 - I find the implication most confusing, especially when the expression is no longer "if p, then q".
     - “p implies q”
     - “p only if q”
